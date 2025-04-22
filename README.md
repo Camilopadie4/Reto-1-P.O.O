@@ -9,4 +9,4 @@
 
 5.Escribir una función que reciba una lista de cadenas y retorne únicamente aquellos elementos que tengan los mismos caracteres. por ejemplo entrada: ["amor", "roma", "perro"], salida["amor", "roma"]
 
-NOTA: Cada Codigo esta comentado y explica el proceso para llegar al resultado.
+NOTA: Cada Codigo esta comentado y en el se explica el proceso para llegar al resultado. 
