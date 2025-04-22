@@ -2,7 +2,6 @@ def mayor_suma_consecutiva(lista): # Definimos una funcion que evalue una lista 
     if len(lista) < 2: # La lista debe tener mas de 2 elementos
         return None
     mayor_suma= lista[0] + lista[1] # Iniciamos con una posible suma consecutiva mayor 
-    
     for i in range(len(lista) - 1):  # Iteramos hasta el penultimo numero
         suma_actual = lista[i] + lista[i + 1]  # Realiza la suma consecutiva 
         if suma_actual > mayor_suma:  
