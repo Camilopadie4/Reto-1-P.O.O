@@ -10,3 +10,4 @@ def filtrar_anagramas(lista): # Definimos una funcion que reciba una lista de pa
 lista_palabras= input("ingrese lista de palabras separadas por espacios: ").split() # Solicitamos al usuario por consola 
 Resultado= filtrar_anagramas(lista_palabras) # Llamamos a nuestra funcion "filtrar-anagramas" para que ejecute las palabras ingresadas
 print("Lista de anagramas:", Resultado) # Finalmente, se imprime la lista de palabras que coinciden en sus carateres 
+
