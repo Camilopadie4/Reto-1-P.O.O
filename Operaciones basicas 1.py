@@ -16,4 +16,4 @@ elif operador == "/":
         resultado = num1 / num2
 else:
     resultado = "Operador no válido" # En caso de que el usuario ingrese un caracter fuera de los establecidos 
-print("Resultado:", resultado) # Si el usuario ingresa todo bien, se imprime el resultado de la operacion elegida 
+print("Resultado:", resultado) # Si el usuario ingresa todo bien, se imprime el resultado de la operacion elegida  
